@@ -10,4 +10,4 @@
 
  🌱 **Let's Connect:** I'm passionate about learning new skills and techniques. Let's connect on LinkedIn to exchange knowledge and explore exciting opportunities together.<br>
 
- 📫 **Connect with me:** [LinkedIn] https://www.linkedin.com/in/surbhi-verma-a63881295/<br>
+ 📫 **Connect with me:** [LinkedIn] (https://www.linkedin.com/in/surbhi-verma-a63881295/)<br>
