@@ -13,7 +13,7 @@
 
  🔍 **Currently Exploring:** DSA and Python to enhance problem-solving skills and develop efficient algorithms.<br>
 
- 💼 **Skills:** Python | C/C++ | SQL, with a keen interest in leveraging these tools to tackle real-world challenges and create impactful solutions.<br>
+ 💼 **Skills:** Python | C/C++ | SQL, keen to leverage these tools to tackle real-world challenges and create impactful solutions.<br>
 
  🎨 **Passion:** Working on Python projects and solving coding challenges to solidify my understanding.<br>
 
