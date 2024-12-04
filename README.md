@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YuiSurbhi&label=Profile%20views&color=0e75b6&style=flat" alt="YuiSurbhi" /> </p>
 
-**👩‍💻 Surbhi Verma** 
-
  📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/surbhi-verma-a63881295/)<br>
 
  <h3 align="left">Languages and Tools:</h3>
