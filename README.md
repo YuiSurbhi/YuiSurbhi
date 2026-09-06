@@ -1,15 +1,10 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vcenter=true&width=900&height=120&lines=Hi+%F0%9F%90%8B%2C+I'm+Surbhi+Verma!;Frontend+Developer+%7C+React+Enthusiast;Welcome+to+my+GitHub+Profile!" 
-        alt="Typing SVG" 
-        width="100%"
-      />
-    </a>
-  </div>
+  <!-- Header Banner (You can design a custom banner on Canva or use Capsule Render) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F1147&height=220&section=header&text=Hi%20%F0%9F%90%8B,%20I'm%20Surbhi%20Verma&fontSize=38&fontColor=A855F7&animation=fadeIn&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20MCA%20Student&descSize=16&descAlignTop=62" width="100%" alt="Header Banner" />
+
+</div>
 
 </div>
 
@@ -34,22 +29,11 @@
       </a>-->
     </td>
     <td width="35%" align="center" valign="middle">
-      <p align="center">
-        <img 
-          src="./Source/picture.png" 
-          alt="Surbhi Verma - MCA Coder" 
-          style="
-            width: 250px; 
-            height: 250px; 
-            border-radius: 50%; 
-            object-fit: cover; 
-            border: 3px solid #8A2BE2; 
-            padding: 5px;
-          "
-        />
-      </p>
-      <br/>
-      <i>"Code. Learn. Improve. Repeat."</i>
+      <div align="center">
+        <img src="./Source/picture- circle.png" alt="Surbhi Verma - MCA Coder" width="220" style="display: block; margin: 0 auto;" />
+        <br/>
+        <i>"Code. Learn. Improve. Repeat."</i>
+      </div>
     </td>
   </tr>
 </table>
@@ -95,8 +79,7 @@
 ---
 
 <p align="center">
-  Made with 💜 by <b>Surbhi</b>
+  Made with 💜 by <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=A855F7&center=true&vcenter=true&width=85&height=25&lines=Surbhi" alt="Surbhi" align="center" style="vertical-align: middle;" />
 </p>
-
 
 
