@@ -21,7 +21,7 @@
         <li>💻 <b>Focus:</b> Creating smooth UI with clean animations</li>
         <li>🚀 <b>Exploring:</b> New frontend technologies and UI libraries</li>
         <li>🎯 <b>Looking for:</b> Frontend Developer Internships</li>
-        <li>📍 <b>Location:</b> Ghaziabad, India</li>
+        
       </ul>
       <br/>
       <!--<a href="YOUR_RESUME_LINK">
